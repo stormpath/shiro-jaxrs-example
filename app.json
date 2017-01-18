@@ -1,0 +1,11 @@
+{
+  "name": "ApacheShiroJAXRSExampleRunner",
+  "description": "An example of using Apache Shiro JAX-RS application.",
+  "keywords": [
+    "shiro",
+    "servlet",
+    "java"
+  ],
+  "repository": "https://github.com/stormpath/shiro-jaxrs-example",
+  "success_url": "/troopers"
+}
