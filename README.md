@@ -9,3 +9,4 @@ Then browse or use cURL to: http://localhost:8080/troopers
 curl --user emperor:secret http://localhost:8080/troopers
 ```
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
